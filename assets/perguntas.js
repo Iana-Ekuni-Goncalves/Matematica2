@@ -15,3 +15,9 @@ criaCartao(
     'Onde se localiza Machu Picchu?',
     'Peru'
 )
+
+criaCartao(
+    'Historia',
+    'Quem inventou a lâmpada?',
+    'Thomas Edison'
+)
